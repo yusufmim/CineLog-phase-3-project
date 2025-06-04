@@ -1,6 +1,8 @@
 from logging.config import fileConfig
 from sqlalchemy import engine_from_config, pool
 from alembic import context
+from app.models import user, movie, review
+
 
 import sys
 import os

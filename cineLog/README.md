@@ -25,4 +25,4 @@ cineLog is a Command Line Interface (CLI) application that allows users to manag
 MIT License
 
 ## Author
-Moringa School Student
+yusuf mohamed
