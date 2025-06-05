@@ -19,7 +19,7 @@ cineLog is a Command Line Interface (CLI) application that allows users to manag
 1. Clone the repository.
 2. Install dependencies: `pipenv install`
 3. Run Alembic migrations: `alembic upgrade head`
-4. Run CLI: `python app/cli/main.py`
+4. Run CLI: `PYTHONPATH=. python app/cli/main.py`
 
 ## License
 MIT License
